@@ -1,1 +1,1 @@
-[DuckDuckGo](https://www.duckduckgo.com)
+[DuckDuckGo](www.duckduckgo.com)
